@@ -45,32 +45,131 @@ h3 {
 }
 
 /* Germany */
+#germany div {
+  height: 110px;
+  width: 800px;
+}
+#box3 {
+  background-color: black;
+}
+
+#box4 {
+  background-color: red;
+}
+#box5 {
+  background-color: yellow;
+}
 
 
 /* Lithuania */
+#lithuania div {
+  height: 110px;
+  width: 800px;
+}
+#box6 {
+  background-color: yellow;
+}
+#box7 {
+  background-color: green;
+}
+#box8 {
+  background-color: red;
+}
 
 /* Yemen */
-
+#yemen div {
+  height: 110px;
+  width: 800px;
+  margin-bottom: 110px;
+}
+#box9 {
+  background-color: red;
+}
+#box10 {
+  background-color: black;
+}
 /* The Gambia */
+#gambia div {
 
+}
+#box11 {
+  height: 120px;
+  width: 800px;
+  background-color: red;
+  margin-bottom: 15px;
+}
+#box12 {
+  height: 60px;
+  width: 800px;
+  background-color: blue;
+}
+#box13 {
+  height: 120px;
+  margin-top: 15px;
+  width: 800px;
+  background-color: green;
+}
 /* Yemen */
 
 /* The Gambia */
 
 /* Chad */
-
+#chad div {
+  float: left;
+  width: 266px;
+  height: 350px;
+}
+#box14 {
+  background-color: blue;
+}
+#box15 {
+  background-color: yellow;
+}
+#box16 {
+  background-color: red;
+}
 /* France */
+#france div {
+  float: left;
+  width: 266px;
+  height: 350px;
+}
+#box17 {
+  background-color: blue;
+}
+#box18 {
+  background-color: white;
+}
+#box19 {
+  background-color: red;
+}
 
 /* Benin */
-
+#benin div{
+/* Got stuck on Benin: tried reading again, googling, and asking friends; still stuck.*/
+}
+#box20 {
+float:left;
+  width: 266px;
+  height: 350px;
+  background-color: green;
+}
+#box21 {
+float:inherit;#box20
+  width: 266px;
+  height: 175px;
+  background-color: yellow;
+}
+#box22 {
+float:inherit;#box21
+  width: 266px;
+  height: 175px;
+  background-color: red;
+}
 /* UAE */
 
 /* Denmark */
 
-/* Norway */ 
+/* Norway */
 
 /* Greece */
-
-
-
-
